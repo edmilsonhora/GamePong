@@ -1,0 +1,10 @@
+C:\Users\Edmilson da Hora\source\repos\Game_Pong\Game_Pong\bin\Debug\Game_Pong.exe.config
+C:\Users\Edmilson da Hora\source\repos\Game_Pong\Game_Pong\bin\Debug\Game_Pong.exe
+C:\Users\Edmilson da Hora\source\repos\Game_Pong\Game_Pong\bin\Debug\Game_Pong.pdb
+C:\Users\Edmilson da Hora\source\repos\Game_Pong\Game_Pong\obj\Debug\Game_Pong.csproj.AssemblyReference.cache
+C:\Users\Edmilson da Hora\source\repos\Game_Pong\Game_Pong\obj\Debug\Game_Pong.Principal.resources
+C:\Users\Edmilson da Hora\source\repos\Game_Pong\Game_Pong\obj\Debug\Game_Pong.Properties.Resources.resources
+C:\Users\Edmilson da Hora\source\repos\Game_Pong\Game_Pong\obj\Debug\Game_Pong.csproj.GenerateResource.cache
+C:\Users\Edmilson da Hora\source\repos\Game_Pong\Game_Pong\obj\Debug\Game_Pong.csproj.CoreCompileInputs.cache
+C:\Users\Edmilson da Hora\source\repos\Game_Pong\Game_Pong\obj\Debug\Game_Pong.exe
+C:\Users\Edmilson da Hora\source\repos\Game_Pong\Game_Pong\obj\Debug\Game_Pong.pdb
